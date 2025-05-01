@@ -11,6 +11,10 @@ This model is designed to classify customer service queries into different inten
 - `credit_card_application`
 - `balance_inquiry`
 
+## Dataset
+
+Link: https://huggingface.co/datasets/atulgupta002/banking_customer_service_query_intent
+
 ## Model Overview
 
 The model is a fine-tuned BERT-based architecture that classifies text inputs into one of the six specified intents. It leverages the **transformers** library by Hugging Face for tokenization and model loading.
